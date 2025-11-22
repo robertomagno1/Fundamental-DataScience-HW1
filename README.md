@@ -118,7 +118,7 @@ Technologies: `pandas`, `scikit-learn`, `matplotlib`.
    ```bash
    python -m venv .venv
    source .venv/bin/activate     # on Windows: .venv\Scripts\activate
-   ```
+  ```
 
 3. **Install dependencies**
 
