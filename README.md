@@ -1,5 +1,5 @@
 
-# FDS-HM1 – Image Filtering & Object Identification
+# FDS-HW1 – Image Filtering & Object Identification
 
 This repository contains my group solutions for **Homework #1** of the course  
 **“Fundamentals of Data Science and Laboratory” – Sapienza University of Rome**.
